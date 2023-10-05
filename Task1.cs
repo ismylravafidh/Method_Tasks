@@ -1,4 +1,5 @@
-﻿namespace ConsoleApp7
+// Min methodu yaradilir.Daxil olunan arrayin en kicik elementini tapir.
+namespace ConsoleApp7
 {
     internal class Program
     {
