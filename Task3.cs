@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp1
+//Gonderilmis integer arrayindeki deyerlerin artan sira ile yerlesib yerlesmediyini tapan method
+//(eger butun deyerler arrrayde artan sirada duzulubse geriye true,deyilse false qaytarmalidir)
+namespace ConsoleApp1
 {
     internal class Program
     {
